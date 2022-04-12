@@ -1,0 +1,6 @@
+ 1 C++ abc 51 500
+ 2 OOPS E.Balagurusamy 36 450
+ 3 Java xyz 80 300
+ 4 hello hi 60 600
+ 5 you yourself 7 70
+ 6 im me 4 40
